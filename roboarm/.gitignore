@@ -1,8 +1,0 @@
-__pycache__/
-*.pyc
-venv/
-.env
-saved_modes.json
-modes_log.txt
-*.log
-.DS_Store

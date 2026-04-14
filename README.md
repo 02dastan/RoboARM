@@ -138,7 +138,7 @@ baursak-arm/
 ## Authors
 
 - **Dastan Tolkynov** — SDU University, Computer Science
-- Built for Nauryz 2025 celebration
+- Built for Nauryz 2026 celebration
 
 ## License
 

@@ -10,7 +10,7 @@ SERIAL_BAUD = 115200
 # Web server
 WEB_HOST = "0.0.0.0"
 WEB_PORT = 8080
-PASSWORD = "baursak2024"
+PASSWORD = "robo2024"
 
 # Motion control
 TICK_HZ = 60          # Servo update rate (Hz)
